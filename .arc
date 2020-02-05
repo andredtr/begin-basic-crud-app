@@ -7,6 +7,7 @@ cake-hvt
 get /todos
 post /todos
 post /todos/delete
+get /something
 
 @tables
 data
